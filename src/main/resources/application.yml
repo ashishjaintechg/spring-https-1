@@ -1,0 +1,7 @@
+server:
+  ssl:
+    key-store: classpath:techg.jks
+    key-store-password: changeit
+    key-store-type: JKS
+    key-alias: localhost
+    key-password: changeit
